@@ -46,7 +46,7 @@ Desconhecido	Qualquer token que não se encaixe nos padrões acima	@, #
 Aqui está uma prévia da interface gráfica do analisador:
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/adccb7bb-1c13-4bc2-aba4-90eed3d83f1e" alt="analisadorLéxico" style="width:50%;">
+  <img src="https://github.com/user-attachments/assets/2273113f-ae0e-4eb4-88d7-6461f7855995" alt="analisadorLéxico" style="width:50%;">
 </div>
 
 📌 Observações
