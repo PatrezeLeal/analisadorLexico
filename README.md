@@ -46,7 +46,7 @@ Desconhecido	Qualquer token que não se encaixe nos padrões acima	@, #
 Aqui está uma prévia da interface gráfica do analisador:
 
 div align="center"
-img src="https://github.com/user-attachments/assets/227ef05c-86e3-4bad-8716-3f984f882b8d" /
+img src="https://github.com/user-attachments/assets/adccb7bb-1c13-4bc2-aba4-90eed3d83f1e" /
 /div
 
 📌 Observações
