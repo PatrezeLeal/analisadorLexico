@@ -1,20 +1,25 @@
 # Analisador Léxico em Python
+
 Este projeto é um Analisador Léxico desenvolvido em Python com interface gráfica utilizando a biblioteca tkinter. Ele permite identificar e categorizar tokens em um código-fonte com base em expressões regulares para diferentes tipos de tokens.
 
 🚀 Funcionalidades
+
 Identificação de tokens: Reconhece palavras-chave, identificadores, números, strings literais, delimitadores, operadores e espaços.
 Interface gráfica: Possui uma interface intuitiva para entrada de código e exibição dos tokens identificados.
 Contagem de tokens: Exibe o número total de tokens identificados no código.
 
 🛠️ Tecnologias Utilizadas
+
 Python 
 tkinter: Para construção da interface gráfica.
 re: Para uso de expressões regulares.
 
 📋 Pré-requisitos
+
 Certifique-se de ter o Python instalado em seu sistema. 
 
 🏗️ Como Usar
+
 1.Clone este repositório:
 clone este repositório e copie o código do analisador ou baixe o código em seu pc
 Se for usar o git bash
@@ -43,6 +48,7 @@ Espaços	Espaços e tabulações	, \t
 Desconhecido	Qualquer token que não se encaixe nos padrões acima	@, #
 
 🖼️ Demonstração
+
 Aqui está uma prévia da interface gráfica do analisador:
 
 <div align="center">
@@ -50,8 +56,10 @@ Aqui está uma prévia da interface gráfica do analisador:
 </div>
 
 📌 Observações
+
 Este projeto é uma implementação básica de um analisador léxico e pode ser expandido para suportar mais casos de uso ou linguagens específicas.
 O foco está na identificação de tokens em Python, mas a lógica pode ser adaptada para outras linguagens.
 
 🤝 Contribuições
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
